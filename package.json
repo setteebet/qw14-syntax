@@ -1,0 +1,18 @@
+{
+  "name": "qw14-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "เว็บไหนหวยไม่อั้น✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"เว็บไหนหวยไม่อั้น",
+"เว็บเศรษฐี",
+"lottovip349net",
+"หวยรัฐบาล",
+"ลาววันนี้สด"
+],
+  "repository": "https://github.com/setteebet/qw14-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
